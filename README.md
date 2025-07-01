@@ -5,3 +5,5 @@
 ## Objetivos
 
 ## Dependencias
+
+(c) Guillermo Aguiar Guerra
